@@ -1,0 +1,15 @@
+#grad {
+  background-image: radial-gradient(circle,#6F7B99,black);
+}
+
+.items{
+  display:flex;
+  align-items:center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.text {
+  font-size: 30px;
+  font-family: Luminari, fantasy;
+}
